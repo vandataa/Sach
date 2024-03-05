@@ -1,0 +1,6 @@
+.custom-p {
+    white-space: nowrap; /* Ngăn nội dung xuống dòng */
+    overflow: hidden; /* Ẩn các nội dung vượt quá chiều rộng */
+    text-overflow: ellipsis; /* Hiển thị dấu chấm 3 chấm (...) khi nội dung được ẩn */
+    width: 200px; /* Chiều rộng tùy chỉnh, thay đổi theo nhu cầu của bạn */
+}
